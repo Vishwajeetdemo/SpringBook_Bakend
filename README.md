@@ -1,2 +1,4 @@
 # SpringBook_Bakend
-This is First Project Uplode GitHub
+Employee Management System usint 
+Backend Java spring Boot
+Front Html, CSS, Javascript ,Thymeleaf
